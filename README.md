@@ -2,6 +2,9 @@
 
 This package enables you to magnifiy on images, for example in product pages or galleries.
 
+In [js-image-magnify-example](https://github.com/fatemeh-khoshkam/js-image-magnify-example) we use this package.
+You may want to inspect that to learn more.
+
 ## Installation
 
 Include it in your project:
@@ -19,6 +22,6 @@ Include it in your project:
   <!-- The image you want to magnify on it -->
   <img src="img/picture.jpg" alt="picture" class="img" />
   <!-- The place of showing magnified area -->
-  <div class="showZoomImg"></div>
+  <div class="showZoomImg" style="background-image: url(img/picture.jpg)"></div>
 </div>
 ```
