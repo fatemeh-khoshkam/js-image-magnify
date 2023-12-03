@@ -9,8 +9,12 @@ You may want to inspect that to learn more.
 
 Include it in your project:
 
-```js
-<script src="index.js"></script>
+```html
+<link
+  rel="stylesheet"
+  href="https://raw.githubusercontent.com/fatemeh-khoshkam/js-image-magnify/main/style.css"
+/>
+<script src="https://raw.githubusercontent.com/fatemeh-khoshkam/js-image-magnify/main/index.js"></script>
 ```
 
 ## Usage
