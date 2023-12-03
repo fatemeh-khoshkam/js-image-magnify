@@ -1,0 +1,25 @@
+{
+  "name": "js-image-magnify",
+  "version": "1.0.0",
+  "description": "This package magnifies on images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatemeh-khoshkam/js-image-magnify.git"
+  },
+  "keywords": [
+    "js",
+    "magnify",
+    "image",
+    "zoom"
+  ],
+  "author": "Fatemeh Khoshkam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatemeh-khoshkam/js-image-magnify/issues"
+  },
+  "homepage": "https://github.com/fatemeh-khoshkam/js-image-magnify#readme"
+}
