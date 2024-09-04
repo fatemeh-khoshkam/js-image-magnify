@@ -1,6 +1,8 @@
 # js-image-magnify
 
 This package enables you to magnifiy on images, for example in product pages or galleries.
+![Screenshot (46)](https://github.com/user-attachments/assets/efe0efb1-09bd-4d45-8445-c4693dc6915b)
+
 
 In [js-image-magnify-example](https://github.com/fatemeh-khoshkam/js-image-magnify-example) we use this package.
 You may want to inspect that to learn more.
